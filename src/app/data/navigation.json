@@ -1,0 +1,197 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "child": true,
+        "submenu": [
+            {
+                "id": 1.1,
+                "link": "/",
+                "linkText": "Home v1"
+            },
+            {
+                "id": 1.2,
+                "link": "/home-v2",
+                "linkText": "Home v2"
+            },
+            {
+                "id": 1.3,
+                "link": "/home-v3",
+                "linkText": "Home v3"
+            },
+            {
+                "id": 1.4,
+                "link": "/home-v4",
+                "linkText": "Home v4"
+            },
+            {
+                "id": 1.5,
+                "link": "/home-v5",
+                "linkText": "Home v5"
+            },
+            {
+                "id": 1.6,
+                "link": "/home-v6",
+                "linkText": "Home v6"
+            },
+            {
+                "id": 1.7,
+                "linkText": "Onepage",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 1.71,
+                        "link": "/home-onepage",
+                        "linkText": "Home v1"
+                    },
+                    {
+                        "id": 1.72,
+                        "link": "/home-v2-onepage",
+                        "linkText": "Home v2"
+                    },
+                    {
+                        "id": 1.73,
+                        "link": "/home-v3-onepage",
+                        "linkText": "Home v3"
+                    },
+                    {
+                        "id": 1.74,
+                        "link": "/home-v4-onepage",
+                        "linkText": "Home v4"
+                    },
+                    {
+                        "id": 1.75,
+                        "link": "/home-v5-onepage",
+                        "linkText": "Home v5"
+                    },
+                    {
+                        "id": 1.76,
+                        "link": "/home-v6-onepage",
+                        "linkText": "Home v6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "link": "/about",
+        "linkText": "About us"
+    },
+    {
+        "id": 3,
+        "linkText": "Services",
+        "child": true,
+        "submenu": [
+            {
+                "id": 3.1,
+                "link": "/services",
+                "linkText": "Services"
+            },
+            {
+                "id": 3.2,
+                "link": "/service-details",
+                "linkText": "Service Details"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linkText": "Pages",
+        "child": true,
+        "submenu": [
+            {
+                "id": 4.1,
+                "link": "/case-study",
+                "linkText": "Case Study"
+            },
+            {
+                "id": 4.2,
+                "link": "/case-details/1",
+                "linkText": "Case Details"
+            },
+            {
+                "id": 4.3,
+                "link": "/comingsoon",
+                "linkText": "Coming Soon"
+            },
+            {
+                "id": 4.4,
+                "link": "/error",
+                "linkText": "Error 404"
+            },
+            {
+                "id": 4.5,
+                "link": "/faq",
+                "linkText": "FAQ's"
+            },
+            {
+                "id": 4.6,
+                "link": "/pricing",
+                "linkText": "Pricing"
+            },
+            {
+                "id": 4.7,
+                "link": "/shop",
+                "linkText": "Shop"
+            },
+            {
+                "id": 4.8,
+                "link": "/shop-details/1",
+                "linkText": "Shop Details"
+            },
+            {
+                "id": 4.9,
+                "link": "/cart",
+                "linkText": "Cart"
+            },
+            {
+                "id": 4.10,
+                "link": "/checkout",
+                "linkText": "Checkout"
+            },
+            {
+                "id": 4.11,
+                "link": "/privacy",
+                "linkText": "Privacy"
+            },
+            {
+                "id": 4.12,
+                "link": "/team",
+                "linkText": "Team"
+            },
+            {
+                "id": 4.13,
+                "link": "/team-details/1",
+                "linkText": "Team Details"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "linkText": "Blog",
+        "child": true,
+        "submenu": [
+            {
+                "id": 5.1,
+                "link": "/blog-grid",
+                "linkText": "Blog Grid"
+            },
+            {
+                "id": 5.2,
+                "link": "/blog-standard",
+                "linkText": "Blog Standard"
+            },
+            {
+                "id": 5.3,
+                "link": "/blog-details/1",
+                "linkText": "Blog Details"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "link": "/contact",
+        "linkText": "Contact"
+    }
+]

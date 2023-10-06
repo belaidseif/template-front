@@ -1,0 +1,26 @@
+[
+  {
+    "img": "assets/img/banner/logs.png",
+    "bgimg": "assets/img/banner/banner-01.jpg",
+    "bgimgtwo":"assets/img/banner/banner-04.jpg",
+    "subtitle": "SPACE IT Consulting",
+    "title": "Best IT Solutions Provider Agency",
+    "text": "To succeed in your project, you need a best staffing resources , for this SPACE IT CONSULTING provides a good  quality of developpers to achieve your goal."
+  },
+  {
+    "img": "assets/img/banner/logo11.png",
+    "bgimg": "assets/img/banner/banner-02.jpg",
+    "bgimgtwo":"assets/img/banner/banner-05.jpg",
+    "subtitle": "SPACE IT Consulting",
+    "title": "Talent, Multiplied",
+    "text": "SPACE IT CONSULTING delivers the powerful combination of in-demand talent multiplied by expert solutions that drive success.Offering IT resourcing, project solutions and managed services"
+  },
+  {
+    "img": "assets/img/banner/logo13.png",
+    "bgimg": "assets/img/banner/banner-03.jpg",
+    "bgimgtwo":"assets/img/banner/banner-06.jpg",
+    "subtitle": "SPACE IT Consulting",
+    "title": "IT EXPERTS SOURCING!",
+    "text": "Our consultants have hight levels skills to cover a multitude of programs , specialy the java programs, website, enterprise servers as well as heavy back-ends. We have the right talent for you or your customer’s IT requirements."
+  }
+]
